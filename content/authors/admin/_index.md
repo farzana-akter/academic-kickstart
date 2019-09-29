@@ -15,7 +15,7 @@ role: Lecturer
 # Organizations/Affiliations
 organizations:
 - name: Institute of Science Trade & Technology (ISTT)
-  url: "www.istt.edu.bd"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Synthesis and Characterization of Nanomaterials, Heterojunction Solar cell and Semiconductor Technology.
